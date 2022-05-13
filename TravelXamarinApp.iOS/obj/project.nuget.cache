@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "78jqkoJdcfbJxjSW9K5TaoZJAzCvMgEoC6Y52g3cMDogzINGTcriRROFSUdnzFlY9agpO4x3uWM+lMbc0798rg==",
+  "success": true,
+  "projectFilePath": "C:\\MySelf_Docs\\TravelXamarinApp\\TravelXamarinApp.iOS\\TravelXamarinApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DU20223572\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
